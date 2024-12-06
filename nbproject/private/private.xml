@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/depi/PaintGui/src/shapes/Oval.java</file>
+            <file>file:/G:/depi/PaintGui/src/paintgui/PaintFrame.java</file>
+            <file>file:/G:/depi/PaintGui/src/paintgui/Toolbar.java</file>
+            <file>file:/G:/depi/PaintGui/src/paintgui/Util.java</file>
+            <file>file:/G:/depi/PaintGui/src/icons/Icons.java</file>
+            <file>file:/G:/depi/PaintGui/src/shapes/Line.java</file>
+            <file>file:/G:/depi/PaintGui/src/tools/Redo.java</file>
+            <file>file:/G:/depi/PaintGui/src/shapes/Square.java</file>
+            <file>file:/G:/depi/PaintGui/src/shapes/Shape.java</file>
+            <file>file:/G:/depi/PaintGui/src/paintgui/PaintGui.java</file>
+            <file>file:/G:/depi/PaintGui/src/tools/Clear.java</file>
+            <file>file:/G:/depi/PaintGui/src/tools/Tools.java</file>
+            <file>file:/G:/depi/PaintGui/src/tools/Undo.java</file>
+            <file>file:/G:/depi/PaintGui/src/tools/Save.java</file>
+            <file>file:/G:/depi/PaintGui/src/paintgui/PaintBoard.java</file>
+            <file>file:/G:/depi/PaintGui/src/shapes/Rectangle.java</file>
+            <file>file:/G:/depi/PaintGui/src/shapes/Pencil.java</file>
+        </group>
+    </open-files>
+</project-private>
