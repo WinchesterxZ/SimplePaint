@@ -7,7 +7,6 @@ package tools;
 
 import icons.Icons;
 import java.util.ArrayList;
-import javax.swing.ImageIcon;
 import paintgui.Util;
 import shapes.Shape;
 

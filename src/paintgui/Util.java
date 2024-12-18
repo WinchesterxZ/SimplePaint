@@ -7,7 +7,6 @@ import shapes.Oval;
 import shapes.Rectangle;
 import shapes.Shape;
 import shapes.Square;
-import icons.Icons;
 import java.awt.Color;
 import java.awt.Image;
 import java.util.ArrayList;

@@ -115,7 +115,6 @@ class ToolBar extends JToolBar {
             brushButton.addActionListener(e -> {
                 if (tool instanceof Undo) {
                     paintBoard.setShapes(Undo.undo(paintBoard.getShapes()));
-                    System.err.println("Undo Pressed");
                 } else if (tool instanceof Redo) {
                     paintBoard.setShapes(Redo.redo(paintBoard.getShapes()));
                 } else if (tool instanceof Clear) {
@@ -210,7 +209,6 @@ class ToolBar extends JToolBar {
             colorButton.addActionListener(e -> {
                 colorIndicator.setBackground(color);
                 currentColor = color;
-                System.out.println("Selected color: " + color);
             });
             colorsGridPanel.add(colorButton);
         }
@@ -224,7 +222,6 @@ class ToolBar extends JToolBar {
                 // Update the color indicator
                 colorIndicator.setBackground(chosenColor);
                 currentColor = chosenColor;
-                System.out.println("Chosen color: " + chosenColor);
             }
         });
         gridAndColorPanel.add(colorPickerBtn, BorderLayout.EAST);
@@ -255,7 +252,6 @@ class ToolBar extends JToolBar {
         slider.setPaintLabels(true);
         slider.addChangeListener((ChangeEvent e) -> {
             strokeWidth = slider.getValue();
-            System.out.println("Stroke width set to: " + strokeWidth);
 
         });
         return slider;

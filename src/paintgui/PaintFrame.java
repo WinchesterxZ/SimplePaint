@@ -26,7 +26,7 @@ public final class PaintFrame extends javax.swing.JFrame {
     public PaintFrame() {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setExtendedState(MAXIMIZED_BOTH);
-        setTitle("Simple Paint");
+        setTitle("Paint Brush");
         setIconImage(new ImageIcon(getClass().getResource(Icons.PAINT_ICON)).getImage());
         setLayout(new BorderLayout());
 
